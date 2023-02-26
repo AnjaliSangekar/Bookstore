@@ -1,2 +1,2 @@
 # Bookstore
-mern stack project
+mern stack project of books selling
